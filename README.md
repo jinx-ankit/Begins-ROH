@@ -1,10 +1,10 @@
 ![](poster.png)
 
-# PROJECT TITLE:   RollOnHills
-# AUTHORS:         Sckorpio
+# PROJECT TITLE:-  RollOnHills
+# AUTHORS:-         Sckorpio
 # VERSION or DATE: March,2018
 
-# DESCRIPTION:
+# DESCRIPTION:-
                        (Note:- The project is on its initial state)
                        NITH - RollOnHills is an Open Source action-adventure third-person video game 
                        developed by DeltaForce based on NIT Hamirpur.
@@ -13,12 +13,12 @@
                        Fly the Plane
                        and many misssions
                                              
-# LINKS:      
+# LINKS:-    
 https://www.facebook.com/NITHRollOnHills/
 
   https://www.facebook.com/NITHRollOnHills/videos/2087815061246050/
 
-# TECHNOLOGY USED: 
+# TECHNOLOGY USED:-
                      -- Unity
                      -- C# Scripting
                      -- Blender
@@ -26,7 +26,7 @@ https://www.facebook.com/NITHRollOnHills/
                      -- Game theory
                      -- Android
                      
-# USER INSTRUCTIONS: -- 
+# USER INSTRUCTIONS:-
                       -- The game can be played on Linux by downloading the build file.
                       -- Download the android build file and transfer to phone and play.
                      
